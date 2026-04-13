@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🔐 **Cyber Security Enthusiast** | CTF Player | Penetration Tester
+- 🔐 **DevSecOps Engineer** | CTF Player | Penetration Tester
 - 🛡️ Interested in **Web Application Security**, **Network Security**, and **Digital Forensics**
 - 🚩 Practicing **CTF challenges** and building security tools
 - 🔍 Exploring **OSINT**, **Vulnerability Research**, and **Exploit Development**
